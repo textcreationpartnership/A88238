@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prisoner's most mournful cry against the present oppression and tyranny that is exercised upon him. Or, An epistle written by John Lilburn Esq; prisoner in New-gate, July 1. 1653. unto the Right Honorable John Fowke Lord Maior of London.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88238</idno>
+            <idno type="STC">Wing L2163</idno>
+            <idno type="STC">Thomason E703_12</idno>
+            <idno type="STC">ESTC R202743</idno>
+            <idno type="EEBO-CITATION">99862931</idno>
+            <idno type="PROQUEST">99862931</idno>
+            <idno type="VID">166600</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166600)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 108:E703[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prisoner's most mournful cry against the present oppression and tyranny that is exercised upon him. Or, An epistle written by John Lilburn Esq; prisoner in New-gate, July 1. 1653. unto the Right Honorable John Fowke Lord Maior of London.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+                  <author>Fowke, John, d. 1662.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Prisoners --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:166600:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 76 -->
+            <head>The PRISONER's Moſt mournful Cry Againſt the preſent Oppreſſion and Tyranny that is exerciſed upon him. OR, An EPISTLE written by <hi>John Lilburn</hi> 
+               <abbr>Eſq</abbr> priſoner in New-gate, <hi>July</hi> 1. 1653. Unto the Right Honorable <hi>John Fowke</hi> Lord Maior of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I Know you are a rational wiſe man, endowed with a large ſtock of brains, and underſtand very well the Fundamental Laws and Liberties of <hi>England, for which many yeers ago you were a ſuf<g ref="char:EOLhyphen"/>ferer:</hi> and, I am confident, you have not the leaſt cauſe in the world to be perſonally my enemy, for any unhandſomeneſs that ever I acted againſt you in particular in my life; and all this, that afternoon your Marſhal brought me before you, you ac<g ref="char:EOLhyphen"/>knowledged and confeſſed before a great many
+<pb n="2" facs="tcp:166600:2"/>
+               <!-- PDF PAGE 77 -->of my friends; and further did declare, freely and publikely unto all my friends, upon my opening of <hi>Empſon</hi> and <hi>Dudley</hi>'s Caſe to you, (and the <hi>danger</hi> that might come unto your ſelf, in your apprehending me as a Felon, and thereby endea<g ref="char:EOLhyphen"/>vouring to deſtroy me, upon an <hi>unjuſt, injurious,</hi> and <hi>illegal</hi> Act of Parliament) that you were for<g ref="char:EOLhyphen"/>ced to do what you did to me, for the ſaving <hi>your own head upon your own ſhoulders,</hi> and, as your ſeeming-juſtification, produced me, and ſuffered me to read the Generals and the Gentlemens ſit<g ref="char:EOLhyphen"/>ting at White-hall (<hi>commonly called the Councel of State</hi>'s) Warrant: and yet, notwithſtanding all that I ſaid unto you againſt that unjuſt Act, you committed me to priſon, and ſent me ſo far on the way to my execution at <hi>Tyburn,</hi> which you know very well I have born with patience and contentedneſs, without much grumbling againſt you, or any other that have been adminiſtrators in that Injuſtice, Tyranny, and Oppreſſion that I now ſuffer, and, through the ſtrength of the Al<g ref="char:EOLhyphen"/>mighty, my never-failing Rock of ſalvation, un<g ref="char:EOLhyphen"/>dergo with comfort and rejoycing.</p>
+            <p>My Lord, you cannot but know, (becauſe they are ſo publikely in Print, all up and down the ſtreets) that I have preſented (upon the 14, 16, and 20 of <hi>June</hi> laſt) from my
+<pb n="3" facs="tcp:166600:2"/>
+               <!-- PDF PAGE 77 -->ſelf, three ſubmiſſive, fair, ſober, modeſt, and rational Petiti<g ref="char:EOLhyphen"/>ons unto thoſe Gentlemen ſitting at Whitehal, that have by their wills and pleaſures aſſumed the preſent governing of the free Nation of <hi>England</hi> (after they have deſtroyed and rooted up by the roots, by their ſwords, wills, &amp; pleaſures, all the formal ſetled legal Power and Government of this ancient free Nation) in which I have offered them ſo fair, that it is impoſſible for any juſt man in the world to offer them fairer: and my friends, and many of the honeſt private Souldiers, ſigned an honeſt and juſt Petition in my behalf, which alſo was preſented to them, upon the ſaid 20 of <hi>June</hi> laſt, &amp; is now publiſhed alſo in Print: But the anſwers unto all of them being nothing but an abſolute Declarati<g ref="char:EOLhyphen"/>on from the greateſt amongſt them, of their blood-thirſty purſuing my innocent life and blood, and their endeavour with lyes and falſhoods, by gilded agents and inſtruments, <hi>to fix the honeſt, conſcientious, juſt, and compaſsionate private Souldiers</hi> againſt me, <hi>from Troop to Troop, and Company to Company,</hi> (as my certain intelligence tells me) that ſo they whom I never in the leaſt wronged in my life, might be<g ref="char:EOLhyphen"/>come deſirous and ſollicitous to have me cut off, as a man that their great Officers would confidently make believe <hi>hath abſolutely confederated, combined, and ſworn unto the pre<g ref="char:EOLhyphen"/>ſent King</hi> Charles <hi>(commonly called King of Scots) to come over into England, to be his Agent; to embroyl the Nation in Blood and War again, and thereby to deſtroy not onely the General, but all his Officers and Souldiers, and, by conſequence, the pro<g ref="char:EOLhyphen"/>ſperity and tranquillity, liberty and freedom of the Land of my nativity;</hi> although I had rather be boyled alive in hot Lead, then either directly or indirectly to have the leaſt hand or finger in any ſuch moſt unſpeakably-miſchievous deſigne, the very thought of which, my ſoul abhors: and yet their great Officers are not aſhamed (as my intelligence
+<pb n="4" facs="tcp:166600:3"/>
+               <!-- PDF PAGE 78 -->tells me) to aver, They have Letters under my own hand, fully to juſtifie all this againſt me.</p>
+            <p>In which regard, I was unavoidably compelled and forced, unleſs I would by my ſilence in a great meaſure be <hi>Fel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> de ſe,</hi> a betrayer of my own innocencie, and an ex<g ref="char:EOLhyphen"/>ecutor and deſtroyer of my own life, and therefore did pen and cauſe to be printed <hi>An additional Appendix</hi> (dated the 23 of June laſt) to my firſt Addreſs from Flanders, of the 4 of May laſt, to the General and his Councel of Of<g ref="char:EOLhyphen"/>ficers; in which I have, in honeſty, truth, and faithful<g ref="char:EOLhyphen"/>neſs, anſwered particularly all their foreſaid murdering ca<g ref="char:EOLhyphen"/>lumniations againſt me.</p>
+            <p>And it ſeems, other people at liberty being very ſenſible of their Fundamental Liberties, very much encroached upon, in the Tyranny at preſent exerciſed upon me, have therefore penned two Books, the one intituled, <hi>A Ju<g ref="char:EOLhyphen"/>ry-man's judgement upon the Caſe of Lieutenant-Colonel</hi> John Lilburn; and the other intituled, <hi>Lieutenant-Colonel.</hi> John Lilburn's <hi>Plea in Law</hi> (dated the 28 of <hi>June</hi>) <hi>againſt an Act of Parliament of the</hi> 30 <hi>of</hi> January, 1651.</p>
+            <p>Of either of which Books, if I ſhould ſay I am the Author or Penman, of them, or either of them, I ſhould abſolutely aver a lye: But yet thus much I muſt ſay, <hi>and avow it with my life,</hi> That having read the books with ſeriouſneſs, and finding them ſo much tending to my advantage, good, and preſervation, and <hi>ſo neatly compiled, upon the pure and clear Principles of the Funda<g ref="char:EOLhyphen"/>mental Law of</hi> England, <hi>and the unſpotted and undefiled</hi> Law <hi>of Nature and Reaſon;</hi> and the
+<pb n="5" facs="tcp:166600:3"/>
+               <!-- PDF PAGE 78 -->publiſhing of them ſo uſeful, profitable, and ad<g ref="char:EOLhyphen"/>vantageous to all the honeſt, and commonly cal<g ref="char:EOLhyphen"/>led free-born people of <hi>England,</hi> and in no ſenſe hurtful to any, unleſs it be <hi>thoſe that already have,</hi> or <hi>hereafter intend</hi> to aſſume to them<g ref="char:EOLhyphen"/>ſelves an <hi>Arbitrary</hi> and <hi>Tyrannical Power;</hi> to give a Law unto, and to rule and govern the people of this ancient (and renowned) free Nation, by their Luſts, Wills, and Pleaſures.</p>
+            <p>In all which regards and conſiderations, I have cauſed to be printed, and paid with my own money for divers thouſands of the foreſaid books; and to avoid the diſ<g ref="char:EOLhyphen"/>pleaſure of your Marſhal, and <hi>his envious and miſchievous catch-polls,</hi> I have given many hundred of the ſaid books, and other papers <hi>freely and gratis away,</hi> till the charge be<g ref="char:EOLhyphen"/>gan to grow too heavy for my poor purſe; which hath had nothing in it, for above this ſix months together (a ve<g ref="char:EOLhyphen"/>ry few ſmall tokens excepted) <hi>but what I have been forced to borrow;</hi> and I muſt avow, that by reaſon of my preſent malicious and cruel ſufferings, it hath coſt me already a<g ref="char:EOLhyphen"/>bove forty pounds ſince I left <hi>Callis,</hi> which yet was but upon Munday laſt was fourteen dayes: in which regards, and my own neceſſity, I was forced and compelled to ſet a true friend or two at work (and to enter into an ingage<g ref="char:EOLhyphen"/>ment, to bear all the charges of any trouble they ſhould come into) to diſperſe amongſt the people called Hawkers, my foreſaid books and papers, that I juſtly and honeſtly paid for; <hi>and which thereby are become as much my proper goods, as any upon my back; and whoſoever by violence, without due pro<g ref="char:EOLhyphen"/>ceſs of law, takes them from my ſaid agents,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> whom they legally ſell them, are in the eye of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:166600:4"/>
+               <!-- PDF PAGE 79 -->for any thing I can finde in the law, <hi>as guilty of Fellony, as any perſon or perſons, that robs, and picks my pocket;</hi> and having credible information, that, <hi>that buſie and ſoft-headed man, Alderman Atkins, with your Marſhal, his brother, and other of the Marſhals ſervants,</hi> have by will, pleaſure, tyranny, force, and violence, without due proceſs of law, taken away ſeve<g ref="char:EOLhyphen"/>ral hundreds of my ſaid books and papers <hi>(eſpecially the Plea in law) now my proper goods and propriety, bought with my money,</hi> and ſold by me to my ſaid agents, for twelve pence a quire, or twelve pence every twenty five ſheets, and by them to the Hawkers for fourteen pence a quire, or four<g ref="char:EOLhyphen"/>teen pence every twenty five ſheets.</p>
+            <p>And having at the preſent no remedy in law left me, but to complain unto your Honour hereof, and to deſire you as the <hi>Supreme</hi> Magiſtrate of London, <hi>forthwith to call the ſaid tyrannical Alderman Atkins before you,</hi> with your <hi>Marſhal, his brother and ſervants,</hi> and cauſe them to make me reſtitution of my ſaid proper goods; and alſo to make me ſatisfaction for the damage <hi>they have done me in ſpoiling my market and ſale thereof;</hi> and I intreat you, and beſeech you further, that ſeeing without all ſhadow of law or juſtice, I am by Sir <hi>Arthur Haſelridge</hi> robbed of all my eſtate, and like to be murdered without mercy or compaſſion, by lyes, and falſ<g ref="char:EOLhyphen"/>hoods, <hi>and the letter of a moſt unjuſt and injurious Act of Parlia<g ref="char:EOLhyphen"/>ment;</hi> and have no legal Magiſtracy left in England, now to appeal unto for my preſervation; in which regard, I humbly beſeech you ſpeedily to ſend unto me your beſt aſſurance, freely, to the utmoſt of your power, to per<g ref="char:EOLhyphen"/>mit me to vend and ſell within your juriſdiction, all ſuch moderate, ſober, and rational vindications of my own un<g ref="char:EOLhyphen"/>ſpotted innocency, as are grounded upon truth, and the fundamental laws of England; in the failor of which, you do unavoidably compell me forthwith, moſt bitterly
+<pb n="7" facs="tcp:166600:4"/>
+               <!-- PDF PAGE 79 -->to cry out of my ſorrows, calamities, and cruel bloody tyranny, that is exerciſed upon me, by your Lordſhip, and your under-Officers, with all thoſe above you, <hi>that purſue my blood and life without law or reaſon;</hi> and to make the mournfulleſt cry to the body of the honeſt, and free people and ſouldiers of England, that either my pen or brains can invent or deviſe, for help, relief, compaſſion, and pro<g ref="char:EOLhyphen"/>tection: and in caſe I be locked up amongſt the Felons, as I am informed, hath been endeavoured already by no mean ones, before I can do it, I do hereby begg of ſome of my friends at liberty to do it for me; which extremity, if it be poſſible, from my very ſoul I deſire to avoid; and therefore do hereby againe (as I have often already to the General) aſſure you, that yet there is nothing in reaſon that the General ſhall deſire at my hand, but he ſhall com<g ref="char:EOLhyphen"/>mand; but if nothing will ſatisfie his indignation, but the laſt drop of my innocent blood, I do hereby declare before God, Angels, and men, that he doth hereby com<g ref="char:EOLhyphen"/>pell me to endeavour to the utmoſt of all the power I have in the world, to ſell my life to him at as dear a rate as ever <hi>Sampſon</hi> ſold his to the Philiſtims. So earneſtly entreat<g ref="char:EOLhyphen"/>ing, and expecting your Lords ſpeedy anſwer in writing, I take leave to ſubſcribe my ſelf,</p>
+            <closer>
+               <dateline>
+                  <hi>From my unjuſt impriſonment, and yet ſoul-rejoycing, and heart-chear<g ref="char:EOLhyphen"/>ing captivity in Newgate,</hi> 
+                  <date>this 1 July 1653.</date>
+               </dateline>
+               <signed>A true and faithful Engliſh man, and your Honours moſt humble ſervant, if you pleaſe, <hi>John Lilburn.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
